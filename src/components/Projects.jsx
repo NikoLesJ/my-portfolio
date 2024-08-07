@@ -26,7 +26,7 @@ const Projects = () => {
                         alt={project.name} 
                         className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" 
                     />
-                    <motion.div
+                    <div
                         initial={{ opacity: 0}}
                         whileHover={{ opacity: 1}}
                         transition={{ duration: 0.5}}
@@ -39,7 +39,7 @@ const Projects = () => {
                                 <FaArrowRight className="pl-1" />
                             </div>
                         </a>
-                    </motion.div>
+                    </div>
                 </motion.div>
             ))}
         </div>
