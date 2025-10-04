@@ -91,7 +91,7 @@ export const PROJECTS = [
 export const BIO = [
   "Nikolay Leskovets studied computer science at the University of Technology,from which he graduated in 2010. Following his education, he honed his craft and expertise over the course of 10 years at Tech Innovations Inc., where he immersed himself in the world of frontend development.",
   "In 2021, driven by a shared vision for innovative web solutions and a passion for creating extraordinary user experiences Nikolay Leskovets co-founded WebArtistry alongside his creative partner, Jane Doe. Together, they set out to redefine frontend development, infusing their projects with creativity and cutting-edge technology.",
-  "As a multi-disciplinary frontend developer, Nikolay Leskovets brings a wealth of skills and expertise to his work. From his deep understanding of HTML, CSS, and JavaScript to his proficiency in modern frameworks like React and Vue.js, Nikolay Leskovets possesses a versatile skill set that allows him to craft stunning and unforgettable web experiences for his clients and audiences alike.",
+  "As a multi-disciplinary frontend developer, Nikolay Leskovets 55 brings a wealth of skills and expertise to his work. From his deep understanding of HTML, CSS, and JavaScript to his proficiency in modern frameworks like React and Vue.js, Nikolay Leskovets possesses a versatile skill set that allows him to craft stunning and unforgettable web experiences for his clients and audiences alike.",
 ];
 
 export const SKILLS = [
