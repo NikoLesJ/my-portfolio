@@ -1,5 +1,5 @@
 import { HERO } from "../constants";
-import carlImg from "../assets/carl.jpeg";
+import ichImg from "../assets/profile.png";
 import { motion } from "framer-motion";
 
 const Hero = () => {
@@ -28,7 +28,7 @@ const Hero = () => {
                     initial={{ opacity: 0}}
                     animate={{ opacity: 1}}
                     transition={{ duration: 1}}
-                    src={carlImg} width={550} height={550} alt="Carl Frank" className="rounded-3xl" />
+                    src={ichImg} width={550} height={550} alt="Carl Frank" className="rounded-3xl" />
             </div>
         </motion.div>
     </section>
